@@ -4,6 +4,7 @@ webアプリ：ワークスケジュール管理サイト
 
 URL:https://shinbo.work/
 
+
 開発言語:python3
 
 webアプリフレームワーク:Django
@@ -32,7 +33,8 @@ APサーバー:Gunicorn
 
 SSLサーバー証明取得:Let's Encrypt
 
-説明：
+
+・説明
 
 会員登録機能をもったワークスケジュール管理サイトです。
 
