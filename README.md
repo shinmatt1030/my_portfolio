@@ -21,7 +21,7 @@ CSS　フレームワーク:bootstrap
 
 クラウドプラットフォーム:Amazon Web Service
 
-メールサーバー:Amazon SES→SendGridに変更 (Djangoとの相性が悪かったため)
+メールサーバー:Amazon SES→SendGridに変更 (Djangoとバージョン相性が悪かったため)
 
 ターミナルソフト:Teraterm
 
