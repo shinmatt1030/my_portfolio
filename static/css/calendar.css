@@ -1,0 +1,76 @@
+.CalendarWrap {
+    margin-bottom: 24px;
+}
+
+.CalendarHead {
+    margin-bottom: 20px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#prev {
+    cursor: pointer;
+}
+
+.CalendarPrevGroup {
+    position: relative;
+    margin: auto;
+    border: 1px solid #016cb8;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 88px;
+    height: 24px;
+    color: #016cb8;
+    font-size: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#next {
+    cursor: pointer;
+}
+
+.CalendarNextGroup {
+    position: relative;
+    margin: auto;
+    border: 1px solid #016cb8;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 88px;
+    height: 22px;
+    color: #016cb8;
+    font-size: 10px;
+}
+
+.CalendarBody {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0 40px
+}
+
+table {
+    width: 90%;
+    margin: 20px auto 0;
+    table-layout: fixed;
+}
+
+th {
+    text-align: center;
+    padding: 5px 0;
+}
+
+td {
+    height: 10%;
+   }
+
+
