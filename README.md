@@ -1,6 +1,8 @@
 # my_portfolio
 
-webアプリ：ワークスケジュール管理サイト URL:https://shinbo.work/
+webアプリ：ワークスケジュール管理サイト 
+
+URL:https://shinbo.work/
 
 開発言語:python3
 
@@ -31,5 +33,7 @@ APサーバー:Gunicorn
 SSLサーバー証明取得:Let's Encrypt
 
 説明：
+
 会員登録機能をもったワークスケジュール管理サイトです。
+
 ３０分毎にスケジュールを登録することができ、また業務開始時間と終了時間の変更も可能です。
