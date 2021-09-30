@@ -5,7 +5,7 @@ webアプリ：ワークスケジュール管理サイト
 URL:https://shinbo.work/
 
 
-開発言語:python3
+開発言語:Python3
 
 webアプリフレームワーク:Django
 
